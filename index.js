@@ -28,8 +28,6 @@ $(".btn").on("click",function () {
     if (i>=gamePattern.length) {
       i=0;
       newSequence();
-
-
     }
   
   });
